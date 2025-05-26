@@ -176,5 +176,5 @@ drop TABLE IF EXISTS customer_dealership_distance;
 
 ## Структура репозитория:
 - `Gubaidullina_Alina_Ilshatovna_pr9.sql` — SQL скрипт.
-- `блабла.csv` — CSV файл с выгруженными данными.
+- `closest_dealerships_202505261514.csv` — CSV файл с выгруженными данными.
 
