@@ -143,8 +143,26 @@ FROM closest_dealerships;
 
 ![image](https://github.com/user-attachments/assets/b5dba697-4074-4ec3-bc2c-dc0757364c03)
 
-6. Проведем выгрузку полученного результата из временной таблицы в CSV и построим карту клиентов и сервисных центров в облачной визуализации Yandex DataLence
-7. Удалим временные таблицы:
+6. Проведем выгрузку полученного результата из временной таблицы в CSV
+
+Получим результат:
+
+
+![Screenshot_63](https://github.com/user-attachments/assets/7cf6e101-21d6-4c9d-af3f-115be56cc3c0)
+
+ 
+7. Построим карту клиентов и сервисных центров в облачной визуализации Yandex DataLence
+Для подключения загрузим CSV файл и создадим датасет. Затем создадим новый чарт и выберем тип "Карта". На ней добавляем слои и указываем связи.
+
+Получаем результат:
+
+
+![карта9](https://github.com/user-attachments/assets/c1070673-b3cf-4dfa-950d-f3c37f51f4af)
+
+
+Ссылка на результат в BI-системе https://datalens.yandex.cloud/wizard/gxta8l9s60d82-novyy-datasett-karta
+
+8. Удалим временные таблицы:
 ```sql
 drop TABLE IF EXISTS customer_points;
 ```
