@@ -163,7 +163,7 @@ FROM closest_dealerships;
 
 
 
-Ссылка на результат в BI-системе 
+Ссылка на результат в BI-системе https://datalens.yandex.cloud/wizard/fy4vaxoy2vhu1-novyy-datasettttttttttttttttttttttttttttttt-karta
 
 8. Удалим временные таблицы:
 ```sql
