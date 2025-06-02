@@ -157,7 +157,10 @@ FROM closest_dealerships;
 Получаем результат:
 
 
-C:\Users\626\Downloads\Screenshot_77.png
+![Screenshot_77](https://github.com/user-attachments/assets/7b0c8add-0078-4529-ad65-f99af3e8f729)
+
+
+
 
 
 Ссылка на результат в BI-системе [https://datalens.yandex.cloud/wizard/gxta8l9s60d82-novyy-datasett-karta](https://datalens.yandex.cloud/wizard/fy4vaxoy2vhu1-novyy-datasettttttttttttttttttttttttttttttt-karta)
