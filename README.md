@@ -157,10 +157,10 @@ FROM closest_dealerships;
 Получаем результат:
 
 
-![карта9](https://github.com/user-attachments/assets/c1070673-b3cf-4dfa-950d-f3c37f51f4af)
+C:\Users\626\Downloads\Screenshot_77.png
 
 
-Ссылка на результат в BI-системе https://datalens.yandex.cloud/wizard/gxta8l9s60d82-novyy-datasett-karta
+Ссылка на результат в BI-системе [https://datalens.yandex.cloud/wizard/gxta8l9s60d82-novyy-datasett-karta](https://datalens.yandex.cloud/wizard/fy4vaxoy2vhu1-novyy-datasettttttttttttttttttttttttttttttt-karta)
 
 8. Удалим временные таблицы:
 ```sql
