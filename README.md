@@ -36,6 +36,9 @@ Training loss: 0.001
 
 ## 7.3
 
+
+<img width="1583" height="799" alt="Screenshot_55" src="https://github.com/user-attachments/assets/7e945118-e81b-48d2-969e-a653fcc3960f" />
+
 ## Метрики:
 Эпохи:
 Test loss:
