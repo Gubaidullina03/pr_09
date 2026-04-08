@@ -16,10 +16,7 @@
 
 ## Задание 7.1
 
-<img width="1585" height="810" alt="1 задание" src="https://github.com/user-attachments/assets/4b44f798-c8ad-4784-8911-95bf2664e9fe" />
-
-
-<img width="1581" height="701" alt="1" src="https://github.com/user-attachments/assets/323538c9-dd47-45a9-bdf8-ce5befb326ba" />
+<img width="1585" height="819" alt="Screenshot_93" src="https://github.com/user-attachments/assets/c9481459-ba7d-475f-aab3-b3a92a9828fd" />
 
 ## Метрики:
 Эпохи: 6
