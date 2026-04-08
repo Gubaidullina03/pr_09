@@ -19,7 +19,7 @@
 <img width="1585" height="819" alt="Screenshot_93" src="https://github.com/user-attachments/assets/c9481459-ba7d-475f-aab3-b3a92a9828fd" />
 
 ## Метрики:
-Эпохи: 6
+Эпохи: 5
 Test loss: 0.033
 Training loss: 0.025
 
