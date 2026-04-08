@@ -18,6 +18,9 @@
 
 <img width="1585" height="810" alt="1 задание" src="https://github.com/user-attachments/assets/4b44f798-c8ad-4784-8911-95bf2664e9fe" />
 
+
+<img width="1581" height="701" alt="1" src="https://github.com/user-attachments/assets/323538c9-dd47-45a9-bdf8-ce5befb326ba" />
+
 ## Метрики:
 Эпохи: 6
 Test loss: 0.033
