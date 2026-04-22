@@ -14,10 +14,7 @@
 
 7.3	XOR	sin(X1), sin(X2)	2 слоя (6, 4)	ReLU	-	Использование нетипичных признаков
 
-## Задание 7.1<img width="1576" height="805" alt="2 задание 4 пр" src="https://github.com/user-attachments/assets/c2194ab6-4d82-4fe9-8d0f-c83aab6d4b63" />
-<img width="1576" height="805" alt="2 задание 4 пр" src="https://github.com/user-attachments/assets/ee16d13f-cdf0-4e73-b624-a4ffd9b18128" />
-
-
+## Задание 7.1
 
 <img width="1577" height="855" alt="1 задание 4 пр" src="https://github.com/user-attachments/assets/5a011d3e-3a32-486e-87ef-3845d7d30a8b" />
 
